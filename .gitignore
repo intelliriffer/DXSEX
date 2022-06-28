@@ -1,0 +1,8 @@
+junk/
+bin/
+bin/mac/
+.o
+.s
+deploy.sh
+deploy_to_pi.sh
+.DS_Store
