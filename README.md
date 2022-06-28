@@ -3,6 +3,8 @@
 ## Download Latest Binaries 0.1.0
 1. [Akai Force, Akai MPC & Raspberry Pi/Mac](https://mega.nz/file/dtgDAaJQ#YQTccky9V2LtWmvxBexHB7kM2MWfvNehzfd_1xZQDvc)
 
+####  **[Some Nerd Stats from 40000 Unique, Presets](Most%20Popular%20DX7%20Algos.txt)
+
 ### Note: Not All Params Have Been Mapped.
 Please view the code in main.cpp to check mappings for the time being until its documented.
 
