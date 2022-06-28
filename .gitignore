@@ -6,3 +6,5 @@ bin/mac/
 deploy.sh
 deploy_to_pi.sh
 .DS_Store
+main.o
+RtMidi.o
